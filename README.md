@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases a machine learning pipeline built with Scikit-Learn to predict passenger survival on the Titanic. It encompasses data preprocessing, model training, hyperparameter optimisation using Grid Search with cross-validation, and an interactive interface for making predictions based on user input.
+This project is about a machine learning pipeline built with Scikit-Learn to predict passenger survival on the Titanic. It includes data preprocessing, model training, hyperparameter optimisation using Grid Search with cross-validation, and an interactive interface for making predictions based on user input.
 
 Note: The project includes two versions of the main notebook:
 
