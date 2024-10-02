@@ -33,7 +33,7 @@ Note: The project includes two versions of the main notebook:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ffrpereira/titanic-survival-prediction.git
+   git clone https://github.com/proffranciscofernando/titanic-survival-prediction.git
    cd titanic-survival-prediction
    ```
 2. **Install Dependencies:**
